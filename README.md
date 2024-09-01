@@ -1,4 +1,4 @@
 <h1>Hi there!</h1>
-  <br> - JS , TS
+  - JS , TS
   <br> - NextJS , React , Electron
   <br> - Prisma , Nest , Tailwind CSS , PostgreSQL
