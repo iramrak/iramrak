@@ -2,4 +2,6 @@
   - JS , TS
   <br> - NextJS , React , Electron , Vite
   <br> - Prisma , Nest , Tailwind CSS , PostgreSQL , Vercel , SCSS <br>
+
+  ---
   - Dota2 , Valo <3
