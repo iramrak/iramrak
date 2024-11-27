@@ -1,7 +1,8 @@
 <h1>Hi!👋</h1>
-  - JS , TS
+  - JS , TS , Python
   <br> - NextJS , React , Electron , Vite , React-Native
-  <br> - Prisma , Nest , Tailwind CSS , PostgreSQL , Vercel , SCSS <br>
+  <br> - FastAPI , Flask , Tailwind CSS , SCSS, PostgreSQL , Vercel , Netlify <br>
 
-  ---
-  - Dota2 , Valo <3
+  --- 
+
+  - Learning Vue and MongoDB 
