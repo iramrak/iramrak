@@ -1,8 +1,11 @@
-<h1>Hi!👋</h1>
-  💻Programming Languages - JS , TS , Python
-  <br> ✨Front - NextJS , React , Electron , Vite , React-Native , Vue
-  <br> 🔧Back - Flask , Tailwind CSS , SCSS, PostgreSQL , Vercel , Netlify <br>
+# Hi! 👋  
 
-  --- 
+💻 **Programming Languages**: JavaScript (JS), TypeScript (TS), Python  
+✨ **Frontend Frameworks & Tools**: Next.js, React, Electron, Vite, React Native, Vue  
+🔧 **Backend**: Flask, PostgreSQL  
+🌐 **Hosting & Deployment**: Vercel, Netlify, Docker  
 
-  - 🔬Learning Express and NodeJS
+---  
+
+- 🔬 Currently learning **Express.js** and **Node.js**  
+
