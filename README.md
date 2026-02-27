@@ -9,4 +9,5 @@
 
 - 🔬 Currently learning **AI-Engineering** and **ML** 
 
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/6ac53f87-5609-42e8-ae96-610a2277f82e" />
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/54a15a93-c6ce-4044-98bd-15e55c41bb0e" />
+
