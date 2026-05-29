@@ -1,4 +1,4 @@
-# SL33P \ 
+# Trying my best \ 
 
  **Programming Languages**: JavaScript (JS), TypeScript (TS), Python (PY) <br>
  **Frontend Frameworks & Tools**: Next.js, Zustand, Axios, Tailwind CSS <br>
