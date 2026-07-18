@@ -7,7 +7,7 @@
 
 ---  
 
--  Currently learning **Big-Data**, **Smart-Security-Technologies**, **Linear algebra**
+-  Currently learning **Big-Data**, **Mathematical analysis**, **Linear algebra**
 
 <img width="1200" height="420" alt="image" src="https://i.pinimg.com/1200x/8e/4a/41/8e4a41a0bb5eeb180c7809e1f438a2a6.jpg" />
 
